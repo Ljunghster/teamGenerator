@@ -1,1 +1,2 @@
 # teamGenerator
+This is a template generator for information about employees of differing responsibilities and rank. When I installed express, it had a small interference with the gitignore I think, not sure what that was about or whether it will break my homework.
